@@ -1,2 +1,1 @@
-# google-introduction-git
-This repository is a part of Introduction to Github Coursera
+I am editing the README file. Adding some more details about the project description.
